@@ -1,0 +1,60 @@
+.image_container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title {
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.label {
+    font-weight: 500;
+}
+
+.label_container {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;;
+}
+
+.container {
+    margin: 10px;
+}
+
+.detail_card {
+    margin: 10px;
+    padding: 12px;
+    box-shadow: 0 7px 15px 0 rgba(0, 0, 0, .13), 0 1px 4px 0 rgba(0, 0, 0, .11);
+    width: 48%;
+}
+.card_container {
+    display: flex;
+    padding: 4px;
+}
+
+.button_container {
+    display: flex;
+    justify-content: center;
+}
+
+.primary_button {
+    margin-right: 8px;
+    height: 32px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 2px;
+}
+
+.secondary_button {
+    height: 32px;
+    background-color: #6c757d;
+    border: none;
+    border-radius: 2px;
+}
+
+.car_detail_container {
+    background-color: #d1e0ef;
+}

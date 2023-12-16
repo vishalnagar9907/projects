@@ -1,0 +1,13 @@
+.form_container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container {
+    padding: 4px;
+    margin: 8px;
+}
+
+.button_style {
+    flex-direction: end;
+}

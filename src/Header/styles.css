@@ -1,0 +1,17 @@
+.header_container {
+    background-color: rgb(90, 162, 226)
+}
+
+.nav_container {
+    display: flex;
+}
+
+.nav_link {
+    margin: 4px;
+}
+
+.header_sub_container {
+    display: flex;
+    justify-content: space-between;
+    height: 48px;
+}
